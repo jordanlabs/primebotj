@@ -4,11 +4,11 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# Ignore Gradle project-specific cache directory
+.gradle
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Ignore Gradle build output directory
+build
 
 # Package Files #
 *.jar
